@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fereshteh-Elyasi/Fereshteh-Elyasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Fereshteh Elyasi
 
-Here are some ideas to get you started:
+### 💜 Frontend Developer | Computer Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;Tailwind+CSS+Lover;Always+Learning+New+Things+🚀"/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+✨ Computer Engineer
+
+💜 Passionate about Frontend Development
+
+⚛️ Currently learning React,TypeScript & PHP
+
+🎯 My goal is becoming a Professional FullStack Developer
+
+🌱 Every project teaches me something new.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,tailwind,git,github,vscode,figma" />
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- React
+- PHP
+- TypeScript
+- REST API
+- Responsive Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🍔 Food Ordering Website / Tarkhineh
+
+Modern responsive food ordering website built with React & Tailwind CSS.
+
+---
+
+## 📅 Habit Tracker
+
+Minimal habit tracking application.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fereshteh-Elyasi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fereshteh-Elyasi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fereshteh-Elyasi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:fereshtehelyasice@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/fereshteh-elyasi/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+
+</div>
