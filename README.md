@@ -5,7 +5,7 @@
 ### Frontend Developer • Computer Engineer
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI/UX Designer;React+%26+PHP;Tailwind+CSS;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+PHP;Tailwind+CSS;Always+Learning+New+Things"/>
 </p>
 
 </div>
