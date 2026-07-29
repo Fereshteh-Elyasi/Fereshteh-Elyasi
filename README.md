@@ -2,10 +2,10 @@
 
 # Hi, I'm Fereshteh Elyasi
 
-### Frontend Developer • Computer Engineer • UI/UX Designer
+### Frontend Developer • Computer Engineer
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+PHP;Tailwind+CSS;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI/UX Designer;React+%26+PHP;Tailwind+CSS;Always+Learning+New+Things"/>
 </p>
 
 </div>
@@ -14,11 +14,11 @@
 
 ##  About Me :
 
-💜 Computer Engineering Student
+Computer Engineer
 
-💻 Passionate about Frontend Development
+Passionate about Frontend Development
 
-⚛️ Currently learning:
+Currently learning:
 
 - React
 - PHP
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -43,28 +43,28 @@
 
 ## 🚀 Featured Projects
 
-### 🏨 Hotel Reservation Website
+### Hotel Reservation Website
 
 Responsive hotel reservation website built with React.
 (comming Soon...)
 
 ---
 
-### 🍔 Food Ordering Website / Tarkhineh
+### Food Ordering Website / Tarkhineh
 
 Modern food ordering UI.
 (comming Soon...)
 
 ---
 
-### 📅 Habit Tracker
+### Habit Tracker
 
 Minimal habit tracker.
 (comming Soon...)
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - React Ecosystem
 - PHP
@@ -73,7 +73,7 @@ Minimal habit tracker.
 
 ---
 
-## ☕ Fun Facts
+##  Fun Facts
 
 - 🌸 I love creating beautiful UI.
 - 🎧 Coding with music.
@@ -82,7 +82,7 @@ Minimal habit tracker.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
