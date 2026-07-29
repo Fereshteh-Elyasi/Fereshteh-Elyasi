@@ -58,24 +58,6 @@ Minimal habit tracking application.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fereshteh-Elyasi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fereshteh-Elyasi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fereshteh-Elyasi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🛠 Tools
 
 <p align="center">
