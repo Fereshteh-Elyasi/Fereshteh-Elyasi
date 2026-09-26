@@ -93,7 +93,7 @@ Minimal Task Manager.
 
 ---
 
-<div align="center">
+<div width:100% align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
