@@ -21,12 +21,12 @@ Passionate about Frontend Development
 Currently learning:
 
 - React
-- PHP
+- PHP / Laravel
 - TypeScript
 
 🎯 Goal
 
-> Building beautiful, modern and responsive web applications.
+> Building Unique, modern and responsive web applications.
 
 ---
 
