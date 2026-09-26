@@ -53,14 +53,14 @@ Responsive hotel reservation website built with React.
 ### Food Ordering Website / Tarkhineh
 
 Modern food ordering UI.
-(comming Soon...)
+(comming Soon...90%)
 
 ---
 
-### Habit Tracker
+### Task Manager
 
-Minimal habit tracker.
-(comming Soon...)
+Minimal Task Manager.
+(comming Soon...99%)
 
 ---
 
