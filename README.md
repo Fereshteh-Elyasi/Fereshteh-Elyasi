@@ -73,15 +73,6 @@ Minimal habit tracker.
 
 ---
 
-##  Fun Facts
-
-- 🌸 I love creating beautiful UI.
-- 🎧 Coding with music.
-- ☕ Coffee makes debugging easier.
-- 💜 Always curious to learn something new.
-
----
-
 ## Connect With Me
 
 <p align="center">
