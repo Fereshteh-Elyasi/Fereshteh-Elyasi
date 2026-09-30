@@ -2,14 +2,14 @@
 
 # Hi there, I'm Fereshteh 👋
 
-### Frontend Developer | React Developer | UI/UX & Design Enthusiast
+### Frontend Developer | React Developer | UI/UX & Web Design Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;PHP+%26+Backend+Learner;UI%2FUX+%26+Web+Design+Enthusiast;Building+Beautiful+Web+Experiences;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;PHP+%7C+Laravel+Developer;UI%2FUX+%26+Web+Design+Enthusiast;Building+Clean+%26+Beautiful+Web+Experiences" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Fereshteh-Elyasi">
-  <img src="https://img.shields.io/badge/GitHub-Fereshteh--Elyasi-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Fereshteh--Elyasi-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -18,26 +18,24 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Computer Engineering student** and a passionate **Frontend Developer** who enjoys turning ideas into clean, interactive and beautiful web experiences.
+I'm a **Computer Engineering student** and a **Frontend Developer** focused on building modern, responsive and user-friendly web applications.
 
-My main focus is **React** and modern frontend development, while I'm also learning and working with **PHP** on the backend.
+My main focus is **React** for frontend development, while I also work with **PHP & Laravel** for backend development.
 
-Beyond coding, I have a strong interest in **UI/UX, Figma and visual design**.  
-I enjoy thinking about how a website looks, how it feels, and how users interact with it — not just how it works.
+I'm also interested in **UI/UX and Web Design**, and I enjoy turning ideas and designs into real, functional web experiences.
 
-- 🎓 Computer Engineering Student
-- ⚛️ Focused on React & Frontend Development
-- 🐘 Learning & working with PHP
-- 🎨 Interested in UI/UX and Web Design
-- 🖌️ Enjoy creating interfaces in Figma
-- 🌱 Always learning and improving
-- 💡 I love turning ideas into real projects
+- ⚛️ Frontend development with React
+- 🐘 Backend development with PHP & Laravel
+- 🎨 UI/UX & Web Design
+- 🖌️ Figma & Interface Design
+- 📱 Responsive Web Development
+- 💡 Building practical and real-world projects
 
 ---
 
-## 🛠️ What I Do Best
+## 🛠️ Tech Stack
 
-### Frontend — Core Focus
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,115 +45,125 @@ I enjoy thinking about how a website looks, how it feels, and how users interact
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### UI/UX & Design
+### Styling & Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge)
-
-### Styling & Development
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+### Tools
 
-## 🎨 Design & UI/UX
-
-I don't see design as something separate from development.
-
-I enjoy working on:
-
-- 🎨 User Interface Design
-- 🧩 Component Design
-- 📱 Responsive Interfaces
-- 🖌️ Figma Prototyping
-- 🧠 User Experience
-- ✨ Visual hierarchy & spacing
-- 🌙 Dark / Light UI
-- 📐 Clean and modern layouts
-
-> **Design it. Build it. Improve it.**
-
----
-
-## 🧰 Tools I Use
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍔 Tarkhineh — Food Ordering Website
+## 🍔 Tarkhineh
 
-A modern food ordering website built from a Figma design and developed with React.
+A modern **online food ordering website** for Iranian and international foods, including dedicated restaurant branch pages.
+
+The project focuses on creating a clean, responsive and user-friendly experience for browsing restaurants and food items.
 
 ### ✨ Highlights
 
-- 🍕 Food ordering interface
-- 🛒 Interactive shopping experience
+- 🍽️ Online food ordering interface
+- 🏪 Restaurant branch pages
 - 📱 Responsive design
-- 🎨 Figma-based UI implementation
-- ⚛️ React components
-- 🧩 Reusable UI elements
+- 🎨 Design-focused user interface
+- ⚛️ React-based frontend
+- 🧩 Reusable components
+- 🔗 Separate frontend & backend structure
 
-**Stack:** `React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+**Technologies:**  
+`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+
+<a href="https://github.com/Fereshteh-Elyasi/Tarkhineh">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-## 🧠 ZehnYar — Mental Health App Concept
+## 📋 Taskline — Task Management System
 
-A UI/UX concept focused on creating a simple and friendly digital experience.
+A **project and task management application** built with **React and Laravel**, inspired by modern Kanban workflow systems.
+
+The application combines a React frontend with a Laravel backend and provides tools for organizing projects, tasks and team workflows.
 
 ### ✨ Highlights
 
-- 🎨 UI/UX design
-- 🧩 User-centered interface
-- 📱 Mobile-friendly concept
-- 🖌️ Figma design
-- 💡 Focus on simplicity and usability
+- 📌 Kanban board with Drag & Drop
+- 📁 Projects, columns and tasks
+- 🏷️ Task labels
+- ☑️ Checklists
+- 💬 Comments
+- 📎 File attachments
+- 📅 Jalali calendar
+- 📥 Inbox
+- 🔐 Authentication with Laravel Sanctum
+- ✉️ User invitation via email
 
-**Stack:** `Figma` `UI/UX` `Design`
+**Technologies:**  
+`React` `Vite` `Laravel` `PHP` `Laravel Sanctum`
 
----
-
-## 🌐 Frontend Practice Projects
-
-A collection of smaller projects created while learning and improving my frontend development skills.
-
-- ⚛️ React applications
-- 🎨 Responsive websites
-- 🧩 Reusable components
-- 🔌 API integration
-- 📱 Responsive layouts
-- ✨ UI experiments
+<a href="https://github.com/Fereshteh-Elyasi/Task-Manager">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Stats
 
-```text
-React
-  └── Components
-  └── Hooks
-  └── State Management
-  └── API Integration
+<div align="center">
 
-PHP
-  └── Backend Fundamentals
-  └── Database Integration
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fereshteh-Elyasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-UI/UX
-  └── Figma
-  └── Design Systems
-  └── User Experience
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fereshteh-Elyasi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Frontend
-  └── Responsive Design
-  └── Clean UI
-  └── Accessibility
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fereshteh-Elyasi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Fereshteh-Elyasi">
+<img src="https://img.shields.io/badge/GitHub-Fereshteh--Elyasi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**Design • Code • Create**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+</div>
