@@ -104,7 +104,7 @@ The application combines a React frontend with a Laravel backend and provides to
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect with me
 
 <div align="center">
 
