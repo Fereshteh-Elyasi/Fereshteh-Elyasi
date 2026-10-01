@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/Fereshteh-Elyasi">
-<img src="https://img.shields.io/badge/GitHub-Fereshteh--Elyasi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -80,11 +76,7 @@ The project focuses on creating a clean, responsive and user-friendly experience
 - 🔗 Separate frontend & backend structure
 
 **Technologies:**  
-`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
-
-<a href="https://github.com/Fereshteh-Elyasi/Tarkhineh">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`React` `JavaScript` `HTML` `Tailwind CSS`
 
 ---
 
@@ -108,23 +100,9 @@ The application combines a React frontend with a Laravel backend and provides to
 - ✉️ User invitation via email
 
 **Technologies:**  
-`React` `Vite` `Laravel` `PHP` `Laravel Sanctum`
-
-<a href="https://github.com/Fereshteh-Elyasi/Task-Manager">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`React` `Laravel` `PHP` `Laravel Sanctum`
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fereshteh-Elyasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fereshteh-Elyasi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br/>
 
@@ -140,15 +118,11 @@ The application combines a React frontend with a Laravel backend and provides to
 
 <div align="center">
 
-<a href="https://github.com/Fereshteh-Elyasi">
-<img src="https://img.shields.io/badge/GitHub-Fereshteh--Elyasi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="fereshtehelyasice@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/fereshteh-elyasi-7a2a322a0/?isSelfProfile=true">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -158,7 +132,6 @@ The application combines a React frontend with a Laravel backend and provides to
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
 
 **Design • Code • Create**
 
