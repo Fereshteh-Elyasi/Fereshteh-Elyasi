@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Fereshteh 👋
+# I'm Fereshteh Elyasi 👋
 
-### Frontend Developer | React Developer | UI/UX & Web Design Enthusiast
+### Frontend Developer | PHP Developer | UI/UX & Web Design Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;PHP+%7C+Laravel+Developer;UI%2FUX+%26+Web+Design+Enthusiast;Building+Clean+%26+Beautiful+Web+Experiences" alt="Typing SVG" />
 
@@ -106,11 +106,6 @@ The application combines a React frontend with a Laravel backend and provides to
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fereshteh-Elyasi&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -135,7 +130,6 @@ The application combines a React frontend with a Laravel backend and provides to
 
 **Design • Code • Create**
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
