@@ -104,11 +104,6 @@ The application combines a React frontend with a Laravel backend and provides to
 
 ---
 
-<br/>
-
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
